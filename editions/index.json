@@ -1,0 +1,49 @@
+{
+ "updated": "2026-10-22T08:15:24+00:00",
+ "editions": [
+  {
+   "id": "2026-10-22-test",
+   "date": "2026-10-22",
+   "file": "editions/2026-10-22-test.md",
+   "title": "Veille PV & BESS — édition de test, 19 → 22 octobre 2026",
+   "periode": "lundi 19 → jeudi 22 octobre (matin), à la demande. Aucun article nouveau le 22 au matin chez pv-magazine et Energy-Storage.news.",
+   "essentiel": [
+    "La commission des affaires économiques de l'Assemblée a voté (20/10) la suppression de l'article 82 du PLF 2027 visant les contrats S21 2006-2010 — vote en séance à venir à partir du 27 octobre.",
+    "RTE et Enedis ouvrent un portail commun d'achat de flexibilités locales, en test pour au moins deux ans dans le Sud-Ouest, ouvert explicitement au stockage.",
+    "BESS en France : Engie lance un parc de 29,8 MWc + 8,8 MW / 20 MWh, Enertrag passe en FID sur 39 MW / 117 MWh en 3 h, Axpo commande 133 MWh à Saft.",
+    "Une note de la CRE recense 568 h de prix négatifs en 2026 (au 8 octobre), avec 2,1 GW de batteries raccordées et plus de 17 GW en file d'attente.",
+    "Le Cal-27 monte à ~110 €/MWh, quand 2028-2029 restent autour de 60-67 €."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Projets & industrie",
+    "À surveiller"
+   ],
+   "items": 9
+  },
+  {
+   "id": "2026-10-22",
+   "date": "2026-10-22",
+   "file": "editions/2026-10-22.md",
+   "title": "Veille PV & BESS — jeudi 22 octobre 2026",
+   "periode": "mercredi 21 → jeudi 22 octobre (matin), avec quelques items publiés le 20 au soir et repris le 21.",
+   "essentiel": [
+    "La commission des affaires économiques de l'Assemblée a voté la suppression de l'article 82 du PLF 2027, qui prévoyait la résiliation anticipée des contrats S21 2006-2010 > 250 kWc — vote en séance à venir.",
+    "Engie lance son premier parc PV avec stockage colocalisé en France : 29,8 MWc + 8,8 MW / 20 MWh sur une ancienne carrière.",
+    "BESS : Enertrag passe en FID sur un 39 MW / 117 MWh en 3 h (l'un des premiers en France) ; Axpo commande 133 MWh à Saft pour deux sites.",
+    "Une note de la CRE recense déjà 568 h de prix négatifs en 2026 (au 8 octobre) et désigne le stockage comme réponse centrale.",
+    "Le Cal-27 français dépasse 109 €/MWh (≈ 49 € en février) ; 2028-2029 restent vers 60-67 €."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Projets & industrie",
+    "À surveiller"
+   ],
+   "items": 7
+  }
+ ]
+}
