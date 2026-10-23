@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-22T08:15:24+00:00",
+ "updated": "2026-10-23T09:19:01+00:00",
  "editions": [
+  {
+   "id": "2026-10-23",
+   "date": "2026-10-23",
+   "file": "editions/2026-10-23.md",
+   "title": "Veille PV & BESS — vendredi 23 octobre 2026",
+   "periode": "jeudi 22 → vendredi 23 octobre (matin). Journée calme côté textes officiels ; la section Juridique rattrape trois publications du cabinet Gossement inaccessibles hier.",
+   "essentiel": [
+    "BESS France : la réserve secondaire (aFRR), principale source de revenus des batteries en service, approche de la saturation avec plusieurs GW attendus en 6 à 12 mois ; les projets financés passent de 2 h à 3-4 h.",
+    "Le Gouvernement promet d'ici le 1er décembre une « clarification » des règles d'implantation des batteries et un nouvel arrêté ministériel sur les risques du stockage stationnaire (ICPE).",
+    "TA de Clermont-Ferrand (13 octobre) : l'acheteur obligé ne peut pas refuser, même tacitement, de signer le contrat d'un lauréat d'AO qui remplit les conditions — affaire d'une SAEM de Haute-Loire.",
+    "Urbasolar cède 87 MWc (25 centrales) à SICAE-Oise Production en conservant l'exploitation-maintenance.",
+    "Allemagne : sonnen (stockage résidentiel, ex-Shell) dépose le bilan — rappel du risque contrepartie sur les garanties fabricant."
+   ],
+   "sections": [
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Projets & industrie",
+    "Juridique",
+    "À surveiller"
+   ],
+   "items": 9
+  },
   {
    "id": "2026-10-22-test",
    "date": "2026-10-22",
