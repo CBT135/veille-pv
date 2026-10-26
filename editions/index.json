@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-23T09:19:01+00:00",
+ "updated": "2026-10-26T06:48:14+00:00",
  "editions": [
+  {
+   "id": "2026-10-26",
+   "date": "2026-10-26",
+   "file": "editions/2026-10-26.md",
+   "title": "Veille PV & BESS — lundi 26 octobre 2026",
+   "periode": "vendredi 23 → lundi 26 octobre (matin). Week-end calme : aucun texte au JO sur le PV ou le stockage, une délibération CRE (zones non interconnectées), et surtout un CAL27 baseload qui continue de monter.",
+   "essentiel": [
+    "Prix à terme : le CAL27 baseload France a clôturé à 117,44 €/MWh le 23 octobre (101 €/MWh le 8 octobre), le CAL28 à 69,48 €/MWh, soit près de 48 €/MWh d'écart entre les deux années.",
+    "AO neutre période 5 (clos le 16 octobre) : selon GreenUnivers, le solaire devrait à nouveau rafler l'essentiel du volume, avec peu de chances pour l'éolien.",
+    "Hybridation PV + BESS : Engie a lancé le chantier de Buisson (Centre-Val de Loire), une centrale de 29,8 MW avec une batterie de 8,8 MW / 20 MWh sur un raccordement commun de 11 km.",
+    "BESS : Enertrag boucle le financement de Vendeuil (Hauts-de-France, 39 MW / 117 MWh, 3 h), avec Crédit Agricole, Huawei comme fournisseur et Gazel Énergie comme agrégateur.",
+    "Modules : les prix de gros européens baissent de 3 à 4 % en septembre (0,130 €/Wc en mainstream), mais restent 20 à 27 % au-dessus de janvier."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "À surveiller"
+   ],
+   "items": 8
+  },
   {
    "id": "2026-10-23",
    "date": "2026-10-23",
