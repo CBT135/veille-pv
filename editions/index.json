@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-26T06:48:14+00:00",
+ "updated": "2026-10-27T06:40:05+00:00",
  "editions": [
+  {
+   "id": "2026-10-27",
+   "date": "2026-10-27",
+   "file": "editions/2026-10-27.md",
+   "title": "Veille PV & BESS — mardi 27 octobre 2026",
+   "periode": "lundi 26 octobre (après l'édition du matin) → mardi 27 octobre (matin). Journée calme côté textes : rien au JO sur le PV ou le stockage, pas de nouvelle délibération CRE sur les appels d'offres. Le CAL27 baseload poursuit sa hausse.",
+   "essentiel": [
+    "Prix à terme : le CAL27 baseload France clôture à 121,35 €/MWh le 26 octobre (+4 €/MWh en une séance), le CAL28 à 70,77 €/MWh ; GreenUnivers relie cette hausse à l'escalade du conflit iranien.",
+    "Hybride PV + BESS : ZE Energy cède 49 % de sa centrale de Vert (Landes, 77 MWc + 29,6 MWh, CPPA de 15 ans avec Orange) à trois caisses du Crédit Agricole et au fonds régional Terra Energies.",
+    "Modules : le TOPCon chinois reste à 0,107 $/W FOB, avec des cotations 2027 à 0,105-0,106 $/W ; les prix planchers proposés par les producteurs ne convainquent pas le marché.",
+    "Repère européen : l'Autriche attribue 173 MW de solaire à 64,2 €/MWh en moyenne lors de son 3e appel d'offres 2026."
+   ],
+   "sections": [
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Réglementation & tarifs",
+    "À surveiller"
+   ],
+   "items": 7
+  },
   {
    "id": "2026-10-26",
    "date": "2026-10-26",
