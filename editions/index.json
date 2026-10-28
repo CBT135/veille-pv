@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-27T06:40:05+00:00",
+ "updated": "2026-10-28T06:40:56+00:00",
  "editions": [
+  {
+   "id": "2026-10-28",
+   "date": "2026-10-28",
+   "file": "editions/2026-10-28.md",
+   "title": "Veille PV & BESS — mercredi 28 octobre 2026",
+   "periode": "mardi 27 octobre (après l'édition du matin) → mercredi 28 octobre (matin). Journée calme : rien au JO sur le PV ou le stockage, pas de nouvelle délibération CRE sur les appels d'offres, rien sur l'AO « super neutre ». Le fait marquant est l'inscription d'une révision des tarifs d'achat solaires à l'ordre du jour du CSE du 5 novembre.",
+   "essentiel": [
+    "Tarifs : le Conseil supérieur de l'énergie examinera le 5 novembre neuf textes, dont une révision des tarifs d'achat du solaire (arrêté concerné pas encore public).",
+    "Prix à terme : le CAL27 baseload France recule légèrement à 120,34 €/MWh (−1 €) le 27 octobre ; le CAL28 reste stable à 70,75 €/MWh.",
+    "Filière : BayWa r.e. France lance un plan de sauvegarde de l'emploi et réorganise ses activités, selon GreenUnivers.",
+    "Stockage : Giga Storage, développeur néerlandais détenu par le fonds français InfraVia, boucle le financement d'une nouvelle grande batterie en Allemagne."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Projets & industrie",
+    "À surveiller"
+   ],
+   "items": 8
+  },
   {
    "id": "2026-10-27",
    "date": "2026-10-27",
