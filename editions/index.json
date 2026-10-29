@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-28T06:40:56+00:00",
+ "updated": "2026-10-29T06:42:04+00:00",
  "editions": [
+  {
+   "id": "2026-10-29",
+   "date": "2026-10-29",
+   "file": "editions/2026-10-29.md",
+   "title": "Veille PV & BESS — jeudi 29 octobre 2026",
+   "periode": "mercredi 28 octobre (après l'édition du matin) → jeudi 29 octobre (matin). Pas de texte au JO, pas de nouvelle délibération CRE sur les appels d'offres, rien sur l'AO « super neutre ». Trois faits à retenir : la ministre défend au Sénat la révision des contrats S21 ; le CAL27 remonte à 124 €/MWh, poussé par le gaz ; plusieurs projets de solarisation de parkings sont annoncés.",
+   "essentiel": [
+    "S21 : devant la commission des affaires économiques du Sénat, Maud Bregeon maintient la révision des contrats photovoltaïques jugés « surrentables », avec des audits au cas par cas.",
+    "Prix à terme : le CAL27 baseload France remonte à 124,05 €/MWh (+3,7 €), alors que le gaz TTF infrajournalier approche 100 €/MWh ; le CAL28 est stable à 71,47 €/MWh.",
+    "Ombrières : Greenvolt remporte l'appel d'offres de Carrefour Property pour environ 25 MWc sur jusqu'à 120 parkings, sous PPA de 20 ans.",
+    "Collectivités : Bordeaux Métropole inaugure une ombrière de 3,65 MWc sur un parking poids lourds (GreenYellow avec Néomix).",
+    "Stockage : Entech et Eiffage Énergie Systèmes décrochent un BESS de 170 MW / 340 MWh en Belgique, avec une mise en service prévue mi-2027."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Projets & industrie",
+    "À surveiller"
+   ],
+   "items": 7
+  },
   {
    "id": "2026-10-28",
    "date": "2026-10-28",
