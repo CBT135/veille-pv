@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-29T06:42:04+00:00",
+ "updated": "2026-10-30T06:44:15+00:00",
  "editions": [
+  {
+   "id": "2026-10-30",
+   "date": "2026-10-30",
+   "file": "editions/2026-10-30.md",
+   "title": "Veille PV & BESS — vendredi 30 octobre 2026",
+   "periode": "jeudi 29 octobre (après l'édition du matin) → vendredi 30 octobre (matin). Journée calme : pas de texte au JO, pas de délibération CRE sur les appels d'offres ni sur le stockage, rien sur l'AO « super neutre ». À retenir : un nouvel acteur BESS de taille entre en France, le CAL27 se détend légèrement, et la filière européenne des modules réclame des mesures commerciales.",
+   "essentiel": [
+    "Stockage : BW ESS rachète à Recurrent Energy (Canadian Solar) deux projets de 100 MW / 400 MWh en France, à Baixas (66) et Coquainvilliers (14), avec un raccordement sécurisé avant Cartostock.",
+    "Prix à terme : le CAL27 baseload recule à 122,61 €/MWh (−1,4 €) et le CAL28 à 69,89 €/MWh (−1,6 €) à la clôture EEX du 29 octobre.",
+    "Modules : l'ESMC estime que les TOPCon chinois sont vendus en Europe à 10,9 c€/Wc, soit environ 31 % sous le prix durable, et demande des mesures de défense commerciale.",
+    "Marché : Voltalia serait sur le point de choisir l'acquéreur de sa filiale Helexia (toitures solaires, efficacité énergétique), selon GreenUnivers."
+   ],
+   "sections": [
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Projets & industrie",
+    "À surveiller"
+   ],
+   "items": 5
+  },
   {
    "id": "2026-10-29",
    "date": "2026-10-29",
