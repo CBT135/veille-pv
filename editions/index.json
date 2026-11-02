@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-30T06:44:15+00:00",
+ "updated": "2026-11-02T06:43:38+00:00",
  "editions": [
+  {
+   "id": "2026-11-02",
+   "date": "2026-11-02",
+   "file": "editions/2026-11-02.md",
+   "title": "Veille PV & BESS — lundi 2 novembre 2026",
+   "periode": "vendredi 30 octobre → lundi 2 novembre (matin), week-end compris. Fait marquant : les textes du nouveau mécanisme de capacité sont parus au JO juste avant son démarrage au 1er novembre, avec une fenêtre de candidature très courte pour les contrats pluriannuels ouverts aux batteries. Rien de nouveau en revanche sur l'AO « super neutre », les résultats de l'AO neutre P5 ou le M0 baseload.",
+   "essentiel": [
+    "Mécanisme de capacité : quatre arrêtés publiés au JO du 30 octobre fixent les règles, la courbe de demande 2030-2031 et l'accès aux contrats pluriannuels (jusqu'à 15 ans pour un stockage neuf, 125 000 €/MW d'investissement minimal).",
+    "Échéance serrée : inscription auprès de la CRE au plus tard le 9 novembre et dossier complet avant le 23 novembre (19 h) pour candidater aux contrats pluriannuels de l'enchère de long terme 2030-2031.",
+    "Le nouveau mécanisme est entré en vigueur le 1er novembre : environ 82,4 GW retenus pour l'hiver 2026-2027, à un prix d'équilibre d'environ 28 200 €/MW.",
+    "Prix à terme : nette remontée du CAL27 baseload à 128,16 €/MWh (+5,5 €) ; le CAL28 reste vers 71 €/MWh et le CAL29 vers 63 €/MWh à la clôture EEX du 30 octobre.",
+    "Parc : selon l'open data Enedis, 1,27 GW raccordés au troisième trimestre 2026 sur le réseau Enedis (en baisse d'environ 16 % sur un trimestre), pour un cumul d'environ 32,1 GW."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Projets & industrie",
+    "À surveiller"
+   ],
+   "items": 5
+  },
   {
    "id": "2026-10-30",
    "date": "2026-10-30",
