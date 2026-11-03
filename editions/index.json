@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-02T06:43:38+00:00",
+ "updated": "2026-11-03T06:43:56+00:00",
  "editions": [
+  {
+   "id": "2026-11-03",
+   "date": "2026-11-03",
+   "file": "editions/2026-11-03.md",
+   "title": "Veille PV & BESS — mardi 3 novembre 2026",
+   "periode": "lundi 2 novembre → mardi 3 novembre (matin). Journée calme : aucun nouveau texte réglementaire ni nouvelle délibération CRE repérés sur le PV ou le stockage, rien sur l'AO « super neutre », les résultats de l'AO neutre P5 ou le M0 baseload. Les faits du jour sont les lauréats de l'AO éolien terrestre (12e session) et le départ d'Escofi du solaire.",
+   "essentiel": [
+    "AO éolien terrestre, 12e session : environ 1 006 MW attribués ; Escofi, Q Energy France et WPD remportent chacun 5 projets, selon GreenUnivers.",
+    "Escofi, racheté par Econergy, se sépare d'une partie de son équipe solaire pour se concentrer sur le repowering éolien.",
+    "Réforme des heures creuses : la deuxième phase, conduite par Enedis, court de décembre 2026 à octobre 2027 et place une partie des heures creuses l'après-midi en été pour absorber la production solaire.",
+    "Prix à terme : pas de nouvelle clôture publique trouvée depuis celle du 30 octobre (CAL27 base 128,16 €/MWh, CAL28 70,94 €/MWh, CAL29 62,97 €/MWh)."
+   ],
+   "sections": [
+    "Appels d'offres & marché",
+    "Projets & industrie",
+    "À surveiller"
+   ],
+   "items": 3
+  },
   {
    "id": "2026-11-02",
    "date": "2026-11-02",
