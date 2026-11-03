@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T06:51:05+00:00",
+ "updated": "2026-11-03T06:56:27+00:00",
  "editions": [
   {
    "id": "2026-11-03",
@@ -16,9 +16,10 @@
    "sections": [
     "Appels d'offres & marché",
     "Projets & industrie",
+    "Technologies & équipements",
     "À surveiller"
    ],
-   "items": 3
+   "items": 4
   },
   {
    "id": "2026-11-02",
