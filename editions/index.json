@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-03T06:56:27+00:00",
+ "updated": "2026-11-04T06:39:55+00:00",
  "editions": [
+  {
+   "id": "2026-11-04",
+   "date": "2026-11-04",
+   "file": "editions/2026-11-04.md",
+   "title": "Veille PV & BESS — mercredi 4 novembre 2026",
+   "periode": "mardi 3 novembre → mercredi 4 novembre (matin). Fait marquant : un projet de cahier des charges de l'AO « super neutre » 2027 circule dans la filière, selon GreenUnivers et Contexte. Ailleurs, le CAL27 baseload recule nettement, et pv-magazine lance une série sur le bac à sable réglementaire appliqué au raccordement du solaire et du stockage.",
+   "essentiel": [
+    "AO « super neutre » 2027 (éolien, hydraulique, PV) : les pouvoirs publics ont fait circuler un projet de cahier des charges, qui inquiète la filière sur le volume, l'agrivoltaïsme et la référence M0. Le détail reste réservé aux abonnés.",
+    "Départ à la DGEC : Hermine Durand, sous-directrice du système électrique et des renouvelables, quitte son poste au moment où se prépare l'AO 2027.",
+    "Prix à terme : le CAL27 baseload perd environ 8,5 €/MWh, à 119,62 €/MWh (clôture EEX du 2 novembre) ; le CAL28 est à 69,33 €/MWh et le CAL29 à 61,78 €/MWh.",
+    "Raccordement : le barème V8 d'Enedis s'applique depuis le 28 octobre ; les postes de transformation augmentent fortement, mais les extensions HTA courtes en grande commune baissent.",
+    "Stockage : GreenUnivers publie son observatoire des revenus spot d'un MW de batterie en octobre ; pv-magazine ouvre une série sur les dérogations de raccordement PV + stockage."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Projets & industrie",
+    "À surveiller"
+   ],
+   "items": 6
+  },
   {
    "id": "2026-11-03",
    "date": "2026-11-03",
