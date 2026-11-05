@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-04T06:39:55+00:00",
+ "updated": "2026-11-05T06:40:23+00:00",
  "editions": [
+  {
+   "id": "2026-11-05",
+   "date": "2026-11-05",
+   "file": "editions/2026-11-05.md",
+   "title": "Veille PV & BESS — jeudi 5 novembre 2026",
+   "periode": "mercredi 4 novembre → jeudi 5 novembre (matin). Journée calme sur les sujets prioritaires : pas de nouvelle délibération de la CRE sur le PV ou le stockage, rien de public de plus sur le projet de cahier des charges « super neutre », pas de résultats de l'AO neutre P5. Les faits du jour : la filière se mobilise contre l'article 82 du PLF avant le vote du 17 novembre, le CAL27 continue de baisser, Huawei relève ses prix d'onduleurs et de PCS, et Saft lance une offre de stockage clés en main pour les industriels.",
+   "essentiel": [
+    "PLF 2027 : la filière fait campagne pour que la séance confirme la suppression de l'article 82 (révision des contrats S6, S10 et S21), déjà votée en commission ; vote solennel le 17 novembre.",
+    "Prix à terme : nouvelle baisse à la clôture EEX du 3 novembre, avec le CAL27 baseload à 115,98 €/MWh (−3,6 €/MWh), le CAL28 à 66,99 €/MWh et le CAL29 à 60,71 €/MWh.",
+    "Équipements : Huawei Digital Power annonce des hausses de 5 à 15 % sur ses onduleurs PV et de 5 à 10 % sur ses solutions de stockage grid-forming (PCS compris), en invoquant le cuivre et l'électronique.",
+    "Stockage : Saft (TotalEnergies) commercialise EnerShift, une offre qui combine batterie, financement et valorisation sur les marchés, à partir d'un pilote de 9 MWh à Bordeaux.",
+    "Auvergne-Rhône-Alpes : une étude citée par pv-magazine prévoit une baisse des emplois du solaire dans la région jusqu'en 2028."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Projets & industrie",
+    "Technologies & équipements",
+    "À surveiller"
+   ],
+   "items": 5
+  },
   {
    "id": "2026-11-04",
    "date": "2026-11-04",
