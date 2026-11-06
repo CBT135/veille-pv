@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-05T06:40:23+00:00",
+ "updated": "2026-11-06T06:42:14+00:00",
  "editions": [
+  {
+   "id": "2026-11-06",
+   "date": "2026-11-06",
+   "file": "editions/2026-11-06.md",
+   "title": "Veille PV & BESS — vendredi 6 novembre 2026",
+   "periode": "jeudi 5 novembre → vendredi 6 novembre (matin). Le fait du jour est budgétaire : l'Assemblée a rejeté la partie « recettes » du PLF 2027, si bien que le texte initial du gouvernement, avec l'article 82 sur les contrats solaires, part au Sénat. Rien de nouveau en public sur l'AO « super neutre », les résultats de l'AO neutre P5, le M0 ou la dérogation de raccordement hybride ; pas de nouvelle publication de Modo Energy, Forsyt Energy ou Tevali Partners repérée.",
+   "essentiel": [
+    "PLF 2027 : le rejet de la partie « recettes » par l'Assemblée (458 voix contre, 4 novembre) annule la suppression de l'article 82 obtenue en commission. Le Sénat examinera le texte initial du 20 novembre au 9 décembre.",
+    "Prix à terme : le CAL27 baseload continue de baisser, à 112,99 €/MWh à la clôture du 4 novembre. Le CAL28 est à 64,53 €/MWh et le CAL29 à 59,15 €/MWh.",
+    "Stockage : selon Storio Energy, le prix spot moyen français a atteint 166 €/MWh en octobre, son plus haut depuis 2022, avec des écarts journaliers record qui renforcent l'arbitrage.",
+    "Projets : Nexun, financé par le fonds Marguerite, rachète 60 MW de projets agrivoltaïques en France, et la SEM Énergies Hauts-de-France prend 30 % d'un projet agrivoltaïque de BayWa r.e.",
+    "Équipements : Longi présente le Hi-MO X12, un module à contacts arrière de 690 W (25,54 %) dont les rubans soudés sont remplacés par une feuille conductrice."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Projets & industrie",
+    "Technologies & équipements",
+    "Juridique",
+    "À surveiller"
+   ],
+   "items": 7
+  },
   {
    "id": "2026-11-05",
    "date": "2026-11-05",
