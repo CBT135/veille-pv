@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-06T06:42:14+00:00",
+ "updated": "2026-11-09T06:40:39+00:00",
  "editions": [
+  {
+   "id": "2026-11-09",
+   "date": "2026-11-09",
+   "file": "editions/2026-11-09.md",
+   "title": "Veille PV & BESS — lundi 9 novembre 2026",
+   "periode": "vendredi 6 novembre → lundi 9 novembre (matin), week-end compris. Pas de nouvelle délibération de la CRE ni de résultats de l'AO neutre P5 repérés. Le fait marquant est un rattrapage réglementaire : deux décrets d'octobre, jamais traités ici, modifient les contrats de soutien (prix négatifs, indemnité de résiliation, flexibilité, base de calcul du complément de rémunération). GreenUnivers consacre une analyse, réservée aux abonnés, aux gagnants possibles de l'AO « super neutre » 2027 ; aucune information publique nouvelle sur son cahier des charges.",
+   "essentiel": [
+    "Le décret n° 2026-997 (JO du 28 octobre, en vigueur le 29) supprime la prime pour effacement en prix négatifs des contrats en complément de rémunération et la remplace par une compensation forfaitaire à définir par arrêté. Il fixe aussi un plancher de 10 000 €/MWc pour l'indemnité de résiliation anticipée.",
+    "Le décret n° 2026-976 du 20 octobre permet de calculer le complément de rémunération sur la production réelle, la puissance installée ou une installation de référence, ce qui ouvre la voie à des contrats découplés de la production.",
+    "Prix : le CAL27 baseload clôture à 113,29 €/MWh le 6 novembre, le CAL28 à 64,27 €/MWh. Le spot du 6 novembre a atteint 278 €/MWh en moyenne journalière.",
+    "Stockage : Modo Energy mesure une chute de 33 % en un mois des revenus des batteries allemandes (149 k€/MW/an en octobre), du fait de la baisse des prix aFRR et FCR. Wood Mackenzie annonce la parité de coût des cellules sodium-ion avec le LFP d'ici fin 2026."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Technologies & équipements",
+    "À surveiller"
+   ],
+   "items": 5
+  },
   {
    "id": "2026-11-06",
    "date": "2026-11-06",
