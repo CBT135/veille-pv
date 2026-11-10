@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-09T06:40:39+00:00",
+ "updated": "2026-11-10T06:39:02+00:00",
  "editions": [
+  {
+   "id": "2026-11-10",
+   "date": "2026-11-10",
+   "file": "editions/2026-11-10.md",
+   "title": "Veille PV & BESS — mardi 10 novembre 2026",
+   "periode": "lundi 9 novembre (après-midi) → mardi 10 novembre (matin). Journée calme sur le plan réglementaire. Aucune nouvelle délibération de la CRE, aucun résultat de l'AO neutre P5, rien de public sur le cahier des charges de l'AO « super neutre ». L'actualité utile porte surtout sur les prix spot, très élevés en début de semaine, et sur la régionalisation de la PPE 3.",
+   "essentiel": [
+    "Le spot day-ahead France du lundi 9 novembre était annoncé à 334 €/MWh en moyenne, avec un pic à 534 €/MWh à 18 h, soit un écart d'environ 310 €/MWh dans la journée. C'est un signal fort pour l'arbitrage du soir d'un BESS.",
+    "À terme, le CAL27 baseload reste vers 113 €/MWh (clôture du 6 novembre) et le CAL28 vers 64 €/MWh. Le recul des prix du gaz après les élections américaines de mi-mandat détend légèrement le marché.",
+    "Régionalisation de la PPE 3 : selon le bilan du SER, les objectifs cumulés votés par les comités régionaux de l'énergie dépassent l'objectif national pour le solaire et l'éolien terrestre à 2035.",
+    "L'AIE (Renewables 2026) attribue environ 75 % de la croissance mondiale des renouvelables d'ici 2031 au photovoltaïque. Elle compte aussi environ 3 000 GW de projets renouvelables et de stockage en attente de raccordement dans le monde."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Projets & industrie",
+    "Technologies & équipements",
+    "À surveiller"
+   ],
+   "items": 7
+  },
   {
    "id": "2026-11-09",
    "date": "2026-11-09",
