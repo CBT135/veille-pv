@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-10T06:39:02+00:00",
+ "updated": "2026-11-11T06:44:44+00:00",
  "editions": [
+  {
+   "id": "2026-11-11",
+   "date": "2026-11-11",
+   "file": "editions/2026-11-11.md",
+   "title": "Veille PV & BESS — mercredi 11 novembre 2026",
+   "periode": "mardi 10 novembre (matin) → mercredi 11 novembre (matin, jour férié). L'info principale concerne le stockage : Modo Energy publie son premier indice de revenus des batteries en France, et GreenUnivers signale un projet d'arrêté sur l'impact réseau des batteries. Rien de nouveau sur l'AO « super neutre », les résultats de l'AO neutre P5 ou le tableau de bord SDES du troisième trimestre.",
+   "essentiel": [
+    "Selon le nouvel indice France de Modo Energy, une batterie de 2 h a rapporté 328 k€/MW sur les douze mois à fin octobre 2026, dont 75 % grâce à l'aFRR. Une batterie de 4 h a rapporté 417 k€/MW.",
+    "GreenUnivers signale un projet d'arrêté destiné à limiter l'impact des batteries et des STEP sur le réseau. C'est un texte à suivre de près pour le raccordement d'un BESS hybride.",
+    "Le spot day-ahead France du 10 novembre est resté très élevé : 304 €/MWh en moyenne, avec un pic à 392 €/MWh entre 18 h et 19 h. Le CAL27 baseload reste à 113 €/MWh et le CAL28 à 64 €/MWh (clôture du 6 novembre).",
+    "Diméo Invest, filiale d'un développeur lyonnais, obtient 53 M€ de prêts bancaires pour construire 63 MWc. Symphonics prépare un PPA agrégé solaire + batteries pour remplacer le guichet S21."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Projets & industrie",
+    "Technologies & équipements",
+    "À surveiller"
+   ],
+   "items": 7
+  },
   {
    "id": "2026-11-10",
    "date": "2026-11-10",
