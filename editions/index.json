@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-11T06:44:44+00:00",
+ "updated": "2026-11-12T06:39:20+00:00",
  "editions": [
+  {
+   "id": "2026-11-12",
+   "date": "2026-11-12",
+   "file": "editions/2026-11-12.md",
+   "title": "Veille PV & BESS — jeudi 12 novembre 2026",
+   "periode": "mercredi 11 novembre (matin, jour férié) → jeudi 12 novembre (matin). Journée très calme : ni GreenUnivers ni pv magazine France n'ont paru le 11 novembre, et seul Tecsol a publié une lettre ce matin. Rien de nouveau sur l'AO « super neutre », les résultats de l'AO neutre P5, le PLF 2027 (article 82), l'arrêté sur l'impact réseau des batteries ou le tableau de bord SDES du troisième trimestre.",
+   "essentiel": [
+    "À terme, le CAL27 baseload recule à 111,21 €/MWh (−2,1 €) et le CAL28 à 63,52 €/MWh (clôture du 10 novembre). Le CAL29 cote 58,63 €/MWh, le point bas de la courbe.",
+    "Le spot day-ahead France redescend à 252 €/MWh en moyenne le 11 novembre, après 304 €/MWh le 10.",
+    "En Auvergne-Rhône-Alpes, Solarhona (CNR), la SEM Les Énergies de l'Ain et la ville de Valserhône ont inauguré deux centrales en ombrières de parking. C'est un exemple de montage public-SEM-développeur réplicable.",
+    "La Société du Canal de Provence présente le premier projet d'envergure de couverture photovoltaïque d'un canal en France."
+   ],
+   "sections": [
+    "Appels d'offres & marché",
+    "Projets & industrie",
+    "À surveiller"
+   ],
+   "items": 3
+  },
   {
    "id": "2026-11-11",
    "date": "2026-11-11",
