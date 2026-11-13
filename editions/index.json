@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-12T06:39:20+00:00",
+ "updated": "2026-11-13T06:50:17+00:00",
  "editions": [
+  {
+   "id": "2026-11-13",
+   "date": "2026-11-13",
+   "file": "editions/2026-11-13.md",
+   "title": "Veille PV & BESS — vendredi 13 novembre 2026",
+   "periode": "jeudi 12 novembre (matin) → vendredi 13 novembre (matin). Les newsletters n'ont pas pu être lues ce matin : le connecteur Microsoft 365 renvoyait une erreur serveur (502) à chaque tentative. Cette édition s'appuie donc uniquement sur les sites des médias et des sources publiques. Elle rattrape aussi deux sujets du 6 novembre qui n'avaient pas été traités. Rien de nouveau sur les résultats de l'AO neutre P5, le M0, le PLF 2027 (article 82), l'arrêté sur l'impact réseau des batteries ou le tableau de bord SDES du troisième trimestre.",
+   "essentiel": [
+    "Selon le projet de cahier des charges de l'AO « super neutre » 2027 décrit par GreenUnivers, le plafond des projets PV passerait de 30 à 80 MW et l'éolien serait plafonné à 40 MW. Les 10 MWc y seraient en concurrence directe avec de grandes centrales.",
+    "À terme, le CAL27 baseload remonte à 115,56 €/MWh (+4,35 €). Le CAL28 cote 64,62 €/MWh et le CAL29 59,09 €/MWh (clôture du 11 novembre). Le spot redescend à 207 €/MWh en moyenne le 12 novembre.",
+    "La CAA de Nantes juge que la loi littoral s'applique à une installation de stockage par batteries (BESS), même si elle est voisine d'un poste électrique existant. Le statut littoral (ou montagne) devient un critère à vérifier dès la recherche de site.",
+    "Un BESS allemand en zinc-brome (Eos, 7,5 MW / 30 MWh) coûte environ 507 €/kWh, soit environ le double d'un BESS lithium-fer-phosphate (LFP). L'investisseur justifie ce surcoût par une durée de vie de 25 ans et l'absence de risque d'emballement thermique.",
+    "BNEF prévoit 209 GW / 638 GWh de batteries installées dans le monde en 2027. Les durées s'allongent vers 3 h en moyenne, et la France ferait partie des marchés au gigawatt."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Technologies & équipements",
+    "Juridique",
+    "À surveiller"
+   ],
+   "items": 8
+  },
   {
    "id": "2026-11-12",
    "date": "2026-11-12",
