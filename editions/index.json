@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-13T06:50:17+00:00",
+ "updated": "2026-11-16T06:39:46+00:00",
  "editions": [
+  {
+   "id": "2026-11-16",
+   "date": "2026-11-16",
+   "file": "editions/2026-11-16.md",
+   "title": "Veille PV & BESS — lundi 16 novembre 2026",
+   "periode": "jeudi 12 novembre (soir) → lundi 16 novembre (matin), week-end compris. L'édition rattrape les newsletters du 12 au soir et du 13 novembre, qui n'avaient pas pu être lues vendredi. La période est calme sur les sujets suivis : rien de nouveau sur l'AO « super neutre », les résultats de l'AO neutre P5, le M0, l'article 82 du PLF 2027, les règles d'implantation des batteries ou le tableau de bord SDES du troisième trimestre.",
+   "essentiel": [
+    "Le CAL27 baseload continue de monter : 118,49 €/MWh à la clôture du 13 novembre. Le CAL28 est à 65,14 €/MWh et le CAL29 à 59,57 €/MWh.",
+    "Selon Modo Energy, la flambée du gaz (TTF au-dessus de 100 €/MWh fin octobre) a environ doublé les prix captés par le solaire cet automne en Europe, avec des taux de captage en hausse d'environ 20 points dans les marchés du nord.",
+    "Aux Pays-Bas, neuf jours de panne de la plateforme d'équilibrage de TenneT ont fait bondir le prix de la capacité aFRR et coûté environ un tiers de leurs revenus aux batteries. C'est un rappel du risque de dépendre d'un seul service système.",
+    "Forsyt Energy et Tevali Partners publient un livre blanc sur les fondamentaux du marché français du BESS (revenus, durée, raccordement, financement, M&A).",
+    "Aurora Energy Research explique la chute du prix de l'AO PV sol (9e période, 61,3 €/MWh) par la très forte concurrence. Le tarif de référence pour les prochaines offres en est durablement abaissé."
+   ],
+   "sections": [
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Projets & industrie",
+    "Technologies & équipements",
+    "À surveiller"
+   ],
+   "items": 8
+  },
   {
    "id": "2026-11-13",
    "date": "2026-11-13",
