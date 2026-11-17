@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-16T06:39:46+00:00",
+ "updated": "2026-11-17T06:39:40+00:00",
  "editions": [
+  {
+   "id": "2026-11-17",
+   "date": "2026-11-17",
+   "file": "editions/2026-11-17.md",
+   "title": "Veille PV & BESS — mardi 17 novembre 2026",
+   "periode": "lundi 16 novembre (matin) → mardi 17 novembre (matin). Le fait marquant est l'avis de la CRE sur le cahier des charges de la 1re période de l'AO « PPE3 Neutre », c'est-à-dire l'AO « super neutre » suivi depuis plusieurs semaines. Rien de nouveau sur les résultats de l'AO neutre P5, l'article 82 du PLF 2027, les règles d'implantation des batteries ou le tableau de bord SDES du troisième trimestre. Pas de nouvelle cotation CAL depuis la clôture du 13 novembre.",
+   "essentiel": [
+    "AO « PPE3 Neutre » (super neutre) : dans une délibération du 5 novembre publiée le 16, la CRE rend un avis favorable sur le projet de cahier des charges. Il prévoit un prix plafond de 100 €/MWh et un complément de rémunération indexé sur un M0 non pondéré.",
+    "La CRE demande en plus un plancher de rémunération, pour que le producteur ne reverse jamais plus que ce qu'il a capté sur le marché. Elle veut aussi une franchise prix négatifs limitée aux deux premières heures de la journée.",
+    "BW ESS s'associe à Wattmen pour développer environ 500 MW de batteries autonomes d'au moins 100 MW en France sur trois ans, en privilégiant une durée de 4 h.",
+    "La filiale française d'Enerparc a été placée en liquidation judiciaire et Solges Energy en redressement judiciaire : le risque de contrepartie remonte chez les développeurs et les installateurs.",
+    "Holosolis boucle une série A de 15 M€ avec quatre nouveaux actionnaires, dont deux chinois, pour son usine de modules de 5 GW à Hambach."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Stockage / BESS",
+    "Projets & industrie",
+    "Technologies & équipements",
+    "À surveiller"
+   ],
+   "items": 6
+  },
   {
    "id": "2026-11-16",
    "date": "2026-11-16",
