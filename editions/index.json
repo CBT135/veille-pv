@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-17T06:39:40+00:00",
+ "updated": "2026-11-18T06:39:18+00:00",
  "editions": [
+  {
+   "id": "2026-11-18",
+   "date": "2026-11-18",
+   "file": "editions/2026-11-18.md",
+   "title": "Veille PV & BESS — mercredi 18 novembre 2026",
+   "periode": "mardi 17 novembre (matin) → mercredi 18 novembre (matin). Une seule information importante : le volume de l'AO « super neutre », révélé par la CRE, est bien plus bas qu'annoncé. Rien de nouveau sur les résultats de l'AO neutre P5, l'article 82 du PLF 2027 (le Sénat commence l'examen le 20 novembre), les règles d'implantation des batteries, le tableau de bord SDES du T3, Modo Energy, Forsyt Energy ou Tevali Partners. Les cotations CAL n'ont pas bougé depuis la clôture du 13 novembre (CAL27 à 118,49 €/MWh, CAL28 à 65,14 €/MWh en base).",
+   "essentiel": [
+    "AO « super neutre » : d'après GreenUnivers, la CRE prévoit 500 MW pour l'appel d'offres de 2027, alors que la DGEC annonçait 1,5 GWc. C'est le bas de la fourchette discutée (250 MW à 1,5 GW).",
+    "Avec 500 MW à partager entre le PV, l'éolien et l'hydraulique, la concurrence sur le prix sera bien plus forte que ne le laisse penser le plafond de 100 €/MWh.",
+    "Le Conseil d'État met un terme au plus grand projet éolien terrestre de France (63 machines, 226 MW, dans les Ardennes). Le contentieux paysager reste un risque majeur pour les autorisations.",
+    "DMEGC lance des modules bifaciaux à cadre acier : jusqu'à 665 W, une bifacialité jusqu'à 85 % et 76 % d'ombrage en moins sur la face arrière dû au cadre.",
+    "Le fabricant américain de batteries à flux fer ESS Tech cesse son activité, ce qui affaiblit encore les alternatives au LFP pour le stockage longue durée."
+   ],
+   "sections": [
+    "Appels d'offres & marché",
+    "Juridique",
+    "Technologies & équipements",
+    "À surveiller"
+   ],
+   "items": 4
+  },
   {
    "id": "2026-11-17",
    "date": "2026-11-17",
