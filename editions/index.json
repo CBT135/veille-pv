@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-18T06:39:18+00:00",
+ "updated": "2026-11-19T06:40:15+00:00",
  "editions": [
+  {
+   "id": "2026-11-19",
+   "date": "2026-11-19",
+   "file": "editions/2026-11-19.md",
+   "title": "Veille PV & BESS — jeudi 19 novembre 2026",
+   "periode": "mercredi 18 novembre (matin) → jeudi 19 novembre (matin). Rien de nouveau sur les résultats de l'AO neutre P5, les règles d'implantation des batteries, le tableau de bord SDES du T3, Forsyt Energy ou Tevali Partners (dernière annonce en juin 2026).",
+   "essentiel": [
+    "AO « super neutre » (PPE3 Neutre, 1re période) : selon pv magazine, le prix compterait pour 95 % de la note, en plus du volume de 500 MW. Tecsol estime que le M0 non pondéré favorise le repowering éolien au détriment du PV sans stockage.",
+    "Revenus des batteries en France : forte chute en octobre, d'environ 440 à 226-248 k€/MW/an selon les indices, parce que RTE achète moins de réserve secondaire (aFRR).",
+    "PLF 2027 : Jean-François Husson, rapporteur au Sénat, a déposé un amendement qui maintient les tarifs S21 et revient donc sur la révision rétroactive prévue à l'article 82. L'examen en séance commence le 20 novembre.",
+    "Prix à terme en baisse : le CAL27 base est à 113,42 €/MWh et le CAL28 à 63,62 €/MWh (clôture du 17/11), contre 118,49 et 65,14 €/MWh le 13/11.",
+    "Tours Métropole confie à CVE, pour 30 ans, une centrale PV de 5,16 MWc sur une ancienne décharge, dans le cadre d'un marché de partenariat : un montage intéressant pour les maîtres d'ouvrage publics."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "Projets & industrie",
+    "Technologies & équipements",
+    "À surveiller"
+   ],
+   "items": 8
+  },
   {
    "id": "2026-11-18",
    "date": "2026-11-18",
