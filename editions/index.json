@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-19T06:40:15+00:00",
+ "updated": "2026-11-20T06:39:55+00:00",
  "editions": [
+  {
+   "id": "2026-11-20",
+   "date": "2026-11-20",
+   "file": "editions/2026-11-20.md",
+   "title": "Veille PV & BESS — vendredi 20 novembre 2026",
+   "periode": "jeudi 19 novembre (matin) → vendredi 20 novembre (matin). Rien de nouveau en public sur le cahier des charges de l'AO « super neutre », les résultats de l'AO neutre P5, le M0, les règles d'implantation des batteries ou le tableau de bord SDES du troisième trimestre. Pas de nouvelle cotation à terme exploitable trouvée depuis la clôture du 17/11. L'examen du PLF 2027 commence au Sénat aujourd'hui.",
+   "essentiel": [
+    "Photosol lance son premier projet agrivoltaïque associé à un élevage porcin : 10 MWc à Paray-le-Frésil, dans l'Allier, donc en Auvergne-Rhône-Alpes.",
+    "BayWa r.e. et la SEMDAS, société d'économie mixte de Charente-Maritime, étendent leur partenariat à de nouveaux projets solaires et de stockage, un modèle de co-développement transposable aux maîtres d'ouvrage publics.",
+    "M&A : Mirova fait appel à Pantheon pour un véhicule de type fonds de continuation (environ 100 M€ selon la presse spécialisée), signe que les fonds EnR prolongent la détention de leurs actifs plutôt que de les céder.",
+    "Stockage : selon une étude de Solmeria relayée par Tecsol, le segment le plus porteur en France est le « petit BESS » stand-alone raccordé en HTA, mais la fenêtre de revenus actuelle se refermera à mesure que le parc grandit.",
+    "Technologie : l'IPVF a inauguré le 19 novembre à Palaiseau sa ligne pilote STaFF de modules tandem pérovskite-silicium à quatre terminaux. C'est encore du pré-industriel, sans produit disponible."
+   ],
+   "sections": [
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "M&A & IPP",
+    "Projets & industrie",
+    "Technologies & équipements",
+    "À surveiller"
+   ],
+   "items": 12
+  },
   {
    "id": "2026-11-19",
    "date": "2026-11-19",
