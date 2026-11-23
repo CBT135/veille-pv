@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-20T06:39:55+00:00",
+ "updated": "2026-11-23T06:40:11+00:00",
  "editions": [
+  {
+   "id": "2026-11-23",
+   "date": "2026-11-23",
+   "file": "editions/2026-11-23.md",
+   "title": "Veille PV & BESS — lundi 23 novembre 2026",
+   "periode": "vendredi 20 novembre (matin) → lundi 23 novembre (matin), week-end compris. Période calme : rien de nouveau en public sur le cahier des charges de l'AO « super neutre », les résultats de l'AO neutre P5, le M0, les règles d'implantation des batteries, l'article 82 du PLF 2027 au Sénat ou le tableau de bord SDES du troisième trimestre. Aucune opération M&A significative en France n'a été repérée, et aucune nouveauté technique pertinente pour une centrale sol ou un BESS.",
+   "essentiel": [
+    "Stockage : selon Modo Energy, le parc français de batteries atteint 2,3 GW / 3,3 GWh à fin septembre 2026, avec environ 1 GW construit en un an, dont 92 % en systèmes de 2 h.",
+    "Revenus : toujours selon Modo, un BESS de 2 h aurait capté sur l'aFRR l'équivalent de 435 k€/MW/an d'avril à septembre, et les écarts de prix journaliers (TB2/TB4) ont progressé d'environ 50 % en 2026.",
+    "Prix à terme : le CAL27 baseload recule encore, autour de 108 €/MWh à la clôture du 18 novembre, et le CAL28 autour de 61 €/MWh (chiffres relayés par Selectra, à confirmer).",
+    "Tecsol lance Agoraflex, un comparateur indépendant des agrégateurs et optimiseurs, utile pour consulter le marché de la valorisation d'une centrale ou d'un BESS.",
+    "IPP : pas de transaction marquante sur la période. Qair dépasse 100 MW de solaire installé en Allemagne."
+   ],
+   "sections": [
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "M&A & IPP",
+    "Projets & industrie",
+    "À surveiller"
+   ],
+   "items": 9
+  },
   {
    "id": "2026-11-20",
    "date": "2026-11-20",
