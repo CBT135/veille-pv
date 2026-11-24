@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-23T06:40:11+00:00",
+ "updated": "2026-11-24T06:39:22+00:00",
  "editions": [
+  {
+   "id": "2026-11-24",
+   "date": "2026-11-24",
+   "file": "editions/2026-11-24.md",
+   "title": "Veille PV & BESS — mardi 24 novembre 2026",
+   "periode": "lundi 23 novembre (matin) → mardi 24 novembre (matin). Toujours rien de nouveau en public sur le cahier des charges définitif de l'AO « super neutre », les résultats de l'AO neutre P5, le M0, les règles d'implantation des batteries ou l'article 82 du PLF 2027 au Sénat. Le tableau de bord SDES du troisième trimestre n'est pas encore paru.",
+   "essentiel": [
+    "Prix à terme : le CAL27 baseload remonte à 114,60 €/MWh à la clôture du 23 novembre (contre environ 108 €/MWh le 18). Le CAL28 reste autour de 62 €/MWh, ce qui confirme une fin de courbe basse.",
+    "Financement : Arkolia lève 168 M€ de dette bancaire pour 145 MW de toitures et 35 MW de centrales au sol lauréates des AO.",
+    "Stockage : NW annonce 200 M€ pour 400 unités JBox de 1 MW / 2,5 MWh, dont 300 en France, toutes raccordées au réseau de distribution. Clean Horizon rappelle que tout projet de plus de 1 MW reste soumis à une étude d'insertion de RTE.",
+    "Collectivités : SERL Énergies (Lyon, Rhône) adhère au SER, comme la Sem Soleil de la Loire plus tôt cette année.",
+    "IPP : ZE Energy achète un troisième projet BESS en Italie (59 MW, jusqu'à 8 h). UNITe finance 20 M€ pour deux volières photovoltaïques dans le Loiret."
+   ],
+   "sections": [
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "M&A & IPP",
+    "Projets & industrie",
+    "Technologies & équipements",
+    "À surveiller"
+   ],
+   "items": 11
+  },
   {
    "id": "2026-11-23",
    "date": "2026-11-23",
