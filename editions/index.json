@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-24T06:39:22+00:00",
+ "updated": "2026-11-25T06:40:05+00:00",
  "editions": [
+  {
+   "id": "2026-11-25",
+   "date": "2026-11-25",
+   "file": "editions/2026-11-25.md",
+   "title": "Veille PV & BESS — mercredi 25 novembre 2026",
+   "periode": "mardi 24 novembre (matin) → mercredi 25 novembre (matin). Rien de nouveau en public sur le cahier des charges définitif de l'AO « super neutre », les résultats de l'AO neutre P5, le M0, les règles d'implantation des batteries ou un avis de la CRE. Le tableau de bord SDES du troisième trimestre n'est toujours pas paru.",
+   "essentiel": [
+    "PLF 2027 / article 82 : selon GreenUnivers, le cabinet de Roland Lescure a réuni le 24 novembre au soir des députés du socle commun sur la révision des contrats PV S6, S10 et S21. Le gouvernement cherche une issue avant l'examen de l'article au Sénat (8 et 9 décembre).",
+    "Prix à terme : le CAL27 baseload continue de monter, à 116,97 €/MWh à la clôture du 24 novembre. Le CAL28 reste stable à 62,34 €/MWh.",
+    "Demande : RTE relèverait à 810 TWh la consommation centrale de 2050, contre 645 TWh dans les « Futurs énergétiques 2050 ». C'est un signal de fond favorable aux volumes d'AO PV et au stockage.",
+    "IPP : Voltalia nomme Guillaume Hintzy directeur financier à compter du 25 novembre, dans le cadre de l'accélération de son plan de transformation SPRING.",
+    "Collectivités : au Salon des maires, Enerplan et Tous Solaires publient « Le solaire vu par 100 maires », des témoignages d'élus de 59 départements représentant 900 MW installés."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "M&A & IPP",
+    "Projets & industrie",
+    "Technologies & équipements",
+    "À surveiller"
+   ],
+   "items": 10
+  },
   {
    "id": "2026-11-24",
    "date": "2026-11-24",
