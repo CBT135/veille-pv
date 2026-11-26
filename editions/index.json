@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-25T06:40:05+00:00",
+ "updated": "2026-11-26T06:39:54+00:00",
  "editions": [
+  {
+   "id": "2026-11-26",
+   "date": "2026-11-26",
+   "file": "editions/2026-11-26.md",
+   "title": "Veille PV & BESS — jeudi 26 novembre 2026",
+   "periode": "mercredi 25 novembre (matin) → jeudi 26 novembre (matin). Journée chargée : le 25 novembre, le gouvernement a donné le volume de l'AO « super neutre » et présenté un nouveau dispositif sur les anciens contrats PV. Rien de nouveau en public sur les résultats de l'AO neutre P5, les règles d'implantation des batteries ou l'arrêté ICPE stockage. Le tableau de bord SDES du troisième trimestre n'est toujours pas paru.",
+   "essentiel": [
+    "AO « super neutre » : le gouvernement annonce un volume de 1,5 GW, trois fois les 500 MW du projet soumis à la CRE, et un lancement « dans les prochains jours ». Le complément de rémunération sera calculé sur un M0 non pondéré commun à toutes les filières.",
+    "Contrats S06-S10 : au lieu de la révision au cas par cas de l'article 82, le gouvernement veut résilier l'ensemble des contrats PV de 2006 et 2010 (3,7 GW) entre février et novembre 2027, par un amendement au Sénat attendu le 26 novembre. Le SER et Enerplan demandent son rejet.",
+    "Prix à terme : le CAL27 baseload recule à 114,53 €/MWh à la clôture du 25 novembre. Le CAL28 est à 61,92 €/MWh et le CAL29 à 56,98 €/MWh.",
+    "M&A / IPP : Voltalia, endetté à hauteur de 2,3 Md€, renforce sa gouvernance financière (Isabelle Kocher au conseil, Emmanuelle Lemer au comité d'audit). Chez Renner Energies, mis en vente par BlackRock, un acheteur potentiel se retire.",
+    "Stockage public : deux SEML de Bourgogne s'associent à Incidences et Eliosfair pour développer 50 MVA de BESS d'ici 2030, sur une quarantaine de sites."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "M&A & IPP",
+    "Projets & industrie",
+    "À surveiller"
+   ],
+   "items": 8
+  },
   {
    "id": "2026-11-25",
    "date": "2026-11-25",
