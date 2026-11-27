@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-26T06:39:54+00:00",
+ "updated": "2026-11-27T06:39:16+00:00",
  "editions": [
+  {
+   "id": "2026-11-27",
+   "date": "2026-11-27",
+   "file": "editions/2026-11-27.md",
+   "title": "Veille PV & BESS — vendredi 27 novembre 2026",
+   "periode": "jeudi 26 novembre (matin) → vendredi 27 novembre (matin). Le texte de l'amendement gouvernemental sur les contrats S06-S10 est désormais public, et l'article 82 du PLF sera débattu au Sénat le 30 novembre. Il n'y a encore aucune publication officielle du cahier des charges de l'AO « super neutre », ni de résultats de l'AO neutre P5, ni de tableau de bord SDES du troisième trimestre.",
+   "essentiel": [
+    "S06-S10 : l'amendement II-1168, déposé au Sénat le 26 novembre, résilie de plein droit environ 222 000 contrats (3,5 GWc) en 2027, sans indemnisation. Le S21 n'est pas modifié et une commission du Sénat demande la suppression de l'article 82.",
+    "Revenus BESS : en octobre, selon GreenUnivers, une batterie de 2 h d'Elmy a rapporté 255,8 k€/MW/an bruts, dont deux tiers de capacité FCR/aFRR. C'est un niveau élevé qui reste exposé à la saturation des services système.",
+    "Prix à terme : à la clôture du 26 novembre, le CAL27 baseload remonte à 116,20 €/MWh, le CAL28 à 64,34 €/MWh et le CAL29 à 58,28 €/MWh.",
+    "AO « super neutre » : pv magazine confirme 1,5 GW et un prix de référence commun à toutes les filières. Le cahier des charges définitif n'est pas encore publié.",
+    "M&A : rien de significatif en France sur la période. En Europe, la vente d'Elicio est lancée et un family office vise un portefeuille de BESS en Pologne."
+   ],
+   "sections": [
+    "Réglementation & tarifs",
+    "Appels d'offres & marché",
+    "Stockage / BESS",
+    "M&A & IPP",
+    "Technologies & équipements",
+    "À surveiller"
+   ],
+   "items": 8
+  },
   {
    "id": "2026-11-26",
    "date": "2026-11-26",
